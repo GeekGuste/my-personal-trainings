@@ -1,0 +1,138 @@
+***** 3 idées reçues à corriger
+1. L'indépendance est instable
+- se mettre dans une position qui fait qu'en moyenne on a des opportunités qui viendront
+et des revenues qu'on connait en moyenne
+- la sécurité se construira autour de 4 compétences fondamentales :
+	1.1.  Savoir fair
+	1.2. Communication client
+	1.3. Réseau
+	1.4. Aptitude à vendre
+
+2. Il faut se vendre et je n'aime pas me mettre en avant
+- ce n'est pas vous que vous vendez, mais une solution
+- C'est la solution que vous apportez qu'il faut présenter au client
+- Pour cela il faut écouter le client pour comprendre ses problèmes
+
+3. Je suis seul face à mes clients
+- Aucun freelance ne réussit tout seul
+- Un freelance qui réussit est entouré et apprécié de ses pairs
+- un bon réseau a de la valeur et décuple vos opportunités de contrat
+
+***** Erreurs fatales qui ruinent un freelance
+
+- Le manque de clients
++ Vous prospectez dans l'urgence sur de mauvais clients
++ Vous êtes dans une situation où vous acceptez n'importe quoi
++ Fond d'urgence de 6 mois
+
+- Le travail dans l'urgence
++ l'urgence peut diminuer la qualité du travail
++ le client doit voir que vous travaillez de manière régulière, ça apaise le client
++ si vous tenez dans les deadline, le client peut vous donner des projets précieux
++ le burnout peut être un danger pour un indépendant
++ Ne pas hésiter à prendre une demi journée et se reposer
++ Vous pouvez repoussez la date limite si vous remarquez qu'il y a des choses; faudrait l'annoncer le plus tôt possible
+
+- La mauvaise communication
++ la communication est votre reponsabilité
++ vous vendez 2 choses: ce que vous allez faire, comment vous êtes entrain d'avancer
++ ce n'est pas bien que le client se demande où vous en êtes; vous devez le rassurer
++ un client deçu ou insatisfait ne vous rappellera pas
++ on doit communiquer avant, pendant et après sur ce que nous allons apporter
++ s'il y a un problème, en parler avec le client, en parler avec son équipe
++ il faut être très clair au niveau des deadlines
+
+- Croire qu'un client est éternel
++ les bons clients ne sont pas éternels
++ Toujours avoir à l'idée que le client peut disparaitre
+
+- Feast or famine: festin ou famine
++ Se focaliser sur un projet en cours à l'exclusion de tout le reste,
+et se retrouver sans boulot dès que le projet se termine
++ Ne perdez jamais votre "muscle d'acquisition de clients"
++ Exple de Dan Kennedy (1h par jour)
++ Inertie : il est eaucoup plus difficile de repartir à zero que d'acceler une machine en mouvement
+
+***** Les 4 compétences fondamentales d'un freelance
+
+1. Un savoir faire solide
+- être bon dans ce que l'on fait
+- plus on est pointu, plus on aura des projets intéressants
+- A vous de vous former régulièrement et d'apprendre sur le terrain
+
+2. Une communication cent irréprochable
+- le client ne connait pas forcément notre coeur de métier
+- c'est à nous de communiquer de manière à ce que le client comprenne
+- vous ne pouvez jamais sur-communiquer
+- donner au client une visibilité sur le projet
+- soyez une source de solutions, pas de problèmes
+- Ayez toujours l'air fiable et rigoureux
+- Prouvez la valeur que vous leur apportez
+
+3. Un réseau efficace
+- les membres de votre réseau sont des opportunités pour vous
+- vous devez être une opportunité pour eux aussi
+- plus vous donnez de la valeur, plus les gens pensent à vous
+
+4. Savoir vendre
+- ce que vous vendez ce n'est pas vous, mais un résultat
+- le client veut un bénéfice concret
+- plus vous allez être bon en vente plus allez intégrer dans votre moelle épinière ce concept de vente et de solution
+- celui qui vend est toujours dans la perception du besoin de l'autre
+- le savoir faire intervient que dans la mesure où vous devez prouver ce que vous savez faire
+- savoir quelles questions poser, comment identifier les besoins, etc.	
+
+
+*** Les 4 étapes de votre carrière freelance
+
+Etape 1: Trouver premiers clients
+Principales difficultés : Aucune référence, aucune expérience, croire que vous n'avez pas de réseau
+Solution
+- dire à tout le monde ce que vous faites 
+- apprenez les règles, bonnes pratique de votre métier
+- concentrez vous uniquement sur la recherche de vos 3 premiers clients
+	+ Attention à la "procastination déguisée"
+
+Etape 2: Développer sa clientèle pour en vivre sereinement
+Principales difficultés
+- Stabiliser votre revenu
+- Acquerir de nouveaux clients
+Solutions
+- Être actif sur votre réseau
+- Travailler toujours le muscle d'acquisition de client
+
+Etape 3: Augmenter vos marges et devenir meilleur
+Principales difficultés
+- Faire signer ses devis
+- Trouver des clients plus haut de gamme
+Solutions
+- Augmenter la valeur de votre réseau
+- Améliorer votre tunnel de vente
+
+Etape 4: Scaling 
+Principales difficultés
+- Tout passe par vous: plafond de verre, "esclave de votre business"
+Solutions
+- Productiser
+- Systematiser
+
+
+***
+Notez vous sur chacune des 4 compétences :
+1. Savoir-faire technique 6/10
+2. Communication client	  5/10	
+3. Networking			  6/10
+4. Aptitude à vendre 	  4/10
+
+Où voulez vous être
+1. Dans 3 mois
+- Maîtrise de tous design pattern
+- Expert en developpement Angular et .Net
+
+2. Dans 1 an
+- Azure developer Associate
+- Intégrateur IA
+
+3. Dans 3 ans
+- D'autoentrepreuneur à société
+- Entrepreneur qui n'a pas besoin de beaucoup travailler

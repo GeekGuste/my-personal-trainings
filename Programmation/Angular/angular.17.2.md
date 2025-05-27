@@ -22,9 +22,3 @@ In angular component can have a child that have a Child component
 - An element that holds structure directives
 - results in a cleaner, more efficient DOM structure
 - Slightly improves performance by minimizing unnecesary elements
-
-
-
---------------------Regarder après
-
-monitor - jurgano - Auguste - specific
