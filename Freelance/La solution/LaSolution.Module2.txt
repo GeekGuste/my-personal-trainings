@@ -6,7 +6,199 @@ Vos clients n'ont pas tous les mêmes attentes
 
 1. Faire gagner du temps
 - le client veut déléguer et il sait ce qu'il faut faire 
+- il cherche à déléguer une tâche sans prendre quelqu'un en interne
 - il cherche un prestataire ayant un meilleur rapport qualité/prix
 Avantage: il reconnaît facilement le travail bien fait
-Inconvénient: le prix va beaucoup cpmpter et il vous met en concurrence avec d'autres
+Inconvénient: le prix va beaucoup compter et il vous met en concurrence avec d'autres
 
+
+2. Apporter une expertise pointue
+- le client cherche à accomplir un objectif spécifique, il a une idée sur ce qu'il faudrait faire
+- Recherche un prestatire ayant cette expertise spécifique dans son domaine (sur un marché, ou une compétence spécifique)
+Avantage: Vous pouvez facturer ce genre de prestation plus cher
+Inconvénient: Vous devez avoir une compétence pointue et être capable de produire les résultats attendus, attention à bien cadrer la mission sur les résultats.
+
+3. Aider à définir son projet (Consulting/coaching)
+- ce client sait qu'il a une lacune sans arriver à mettre le doigt dessus
+- Il a besoin d'un accompagnement pour prendre de bonnes décisions et mettre en route le projet
+- il cherche un prestataire capable de lui desser une feuille de route
+Avantage : le temps passé avec le client rapporte directement de l'argent
+Inconvénient : Processus de vente plus complexe
+
+***** les 5 peurs de votre client qui tuent un projet
+
+- Il y a le client et son point de vu, nous et notre point de vu
+- Nous pouvons nous mettre à la place du client
+
+* Votre point de vue
+- vous voulez convaincre et faire signer votre devis
+- montrer que vous êtes impliqué, fiable
+- vous êtes honnête et transparent
+
+Peur #1 : Est ce que cette personne comprend mon problème ?
+- Posez vous les bonnes questions ?
+Ex: En acquisition FB, questions sur le tunnel de vente, la CLV et les campagnes passées
+- Pouvez vous formuler leur besoin, en insistant sur ce qui LEUR semble important ?
+Ex: designer qui met l'accent sur un design moderne
+- Il faut reformuler ce qu'il a dit et lui montrer qu'on a compris le problème
+Ex: mission d'optimisation des conversations qui devient une mission d'assainissement des analytics
+- Est ce que vous parlez son langage, son jargon ?
+
+Peur #2 : Est ce que je vais avoir les résultats que j'attends ?
+- Est ce que cette personne est compétente ?
+- Quelles sont les preuves ?
+- Est ce que vous avez travaillé avec quelqu'un que votre client connait ? Ou dans son industrie ?
+- Quels sont les critères de succès ?
+	+ Rapports, metrics...
+	+ Lui demander comment lui définirait le succès du projet
+	+ Exemple du Rebranding
+	+ Exple du Coaching en developpement personnel
+- Technique de la boule de cristal : faire visualiser le processus entier, y compris les résultats
+
+Peur #3 : Est ce que cette personne est fiable ?
+- Est ce que cette personne va disparaitre du jour au lendemain ?
+	+ Ponctualité. Tenue des engagements
+- Est ce que les choses seront faites en temps et en heure ?
+	+ Mathilda et la livraison des photos
+	+ Proposition de livre
+	+ Suivi de coaching dans les 2 heures qui suivent
+- Est ce que sa communication sera claire, concise ou réactive ?
+	+ EX: fautes d'orthographe ou ponctuation "approximative"
+	+ EX: Coquille évidente au montage
+
+Peur #4: Est ce que je ne vais pas trop perdre de temps dans ce projet ?
+- Dans quel mesure votre client veut il être impliqué ?
+	+ montage son poadcast vs Wedding planner
+	+ délégation de la mise en ligne des extraits vidéos sur FB
+- êtes vous capable de définir un projet et m'économiser du "temps de cervau disponible"
+
+Peur #5 : Est ce que cette personne est réellement motivée par mon projet ?
+
+EX: Je fais de la pub facebook
+
+
+**** Quel est votre positionnement
+
+- Fast food : Beaucoup de clients, peu cher, peu de temps par mission
+	+ photographe devant la tour effeil
+	+ Design pickle: site qui donne accès à des designer de manière illimité à 400EUR/mois
+
+- Gastronomie : Peu de clients, cher, produit de haute qualité/prix
+	+ exple: photographe de mariage
+	+ Neil Patel : projet minimum à 25000
+Il ne faut pas chercher à plaire à tout le monde sinon :
+* le client gastronomique pensera que vous ne faites pas de travail de qualité
+* ceux qui veulent quelque chose de rapide ont l'impression que vous ne proposez
+pas quelque chose d'adapté à ce qu'ils recherchent
+
+
+
+**** Se présenter à l'oral : Les 4 étapes indispensables
+
+#1 Que fais tu dans la vie ?
+
+- Chaque rencontre peut vous apporter des opportunités
+- Si vous captez l'attention de votre interlocuteur, il voudra en apprendre plus sur vous
+	+ "J'aide X à accomplir Y"
+	Exple Mathilda: Liste de course => explication basé sur un problème/résultats
+	+ Suciter la réaction : "Comment ça marche ?"
+
+#2 Le schéma Actantiel : positionnez votre client comme un héros
+- on place le client au centre d'une histoire
+Heros : l'interlocuteur en face de nous
+Quête : son objectif
+Obstacles : Le problème auquel il va se heurter
+Adjuvant : vous résolvez le oriblème du héros
+Exemple : Coach en vente
+- tu fais visualiser cela au client 
+- tu réponds au client en parlant de lui
+- Tu n'es pas le hero de l'histoire mais tu présentes en fonction de la personne qui est devant toi
+Exple : pub facebook
+- Tu dois raconter ce que tout le monde doit comprendre
+- ça marche dans le networking et dans la vie de tous les jours
+
+#3 Creuser dans l'émotion
+- Exple : Coach en vente : il lui a demandé d'essayer de lui vendre un truc; ensuite il montre qu'il l'aidera à éliminer le stress, panique grâce au coaching
+- Tu fais ce qu'on appelle "agiter le problème"
+- Remonter le problème à la surface
+
+#4 Appel à l'action
+- Quel est le processus pour travailler avec vous ? 
+- Quelle est la prochaine étape ? Fixer un rdv, prendre le contact/l'email de la personne
+- Terminez chaque conversation avec un prospect potentiel en décidant quoi faire ensuite
+
+Comment utiliser ce modèle
++ Fluide et conversationnel
++ L'ordre des actions n'est pas essentiel
++ Procéder à l'étape suivant si votre interlocuteur est qualifié
+
+**** Se présenter à l'écrit : les bases du copywriting
+- on n'a pas besoin d'être le meilleur copywriteur du monde pour avoir des clients
+1. Faut il créer un site web ?
+- Oui sauf si ça va vous prendre plus de 3 jours
+- ce sera comme une carte de visite
+- par contre, ce n'est pas plus utile que la prospection
+- n'y passez pas des heures et des heures
+- Faites au plus simple
+Exple : charisma Arts; Verbz
+- l'alternative rapide : Votre profil linkedIn
+
+2. What's In It For Me (Qu'est ce que j'y gagne)
+- parlez du résultat pour votre client, pas de vous
+- tout ce que vous racontez sur vous : c'est comment vous allez aider le client
+- Se relire
+- comparez le nombre de (vous/votre) et de (je/mon) présents sur le site
+
+3. Appel à l'action clair et unique
+- Chaque page doit avoir un objectif: 1 page = 1 Objectif
+- Hierarchie visuelle : votre design de site (voire article marketing mania)
+
+4. Fonctions Vs Bénéfices
+- "Ce que vous allez faire" vs "Ce que ça va m'apporter"
+- Il faut lier tout ce que vous allez faire au bénéfice du client
+- Ex: 
+	+ Je split test vos pages => J'optimise vos taux de conversion
+	+ Je mets place un suivi de vos analytics => Je vous aide à y voir clair
+	+ J'écris du contenu => Je vous apporte des visiteurs et des prospects
+
+5. AIDA
+- Attention : Captez l'attention de votre prospect ciible
+- Intérêt : Parlez-lui de son problème
+- Désir : Parlez lui de votre solution
+- Action : Dites lui quoi faire ensuite
+
+Ex: -Profil linkedIn de Anna Wickham
+
+**** Comment être crédible ?
+- il faut montrer notre travail et il y a différentes manières de le faire
+- un designer qui montre son portfolio par exemple
+- la référence client est très utile
+
+# Les études de cas
+- vous décortiquez un projet étape par étape 
+	+ la personne voit comment vous procédez
+	+ elle se dit que le projet est faisable
+- Aide votre client à visualiser ce que c'est de travailler avec vous
+	+ Exple : John Miers qui montre les différentes étapes pour faire le logo de Empire Flippers
+	+ Un photographe de mariage qui montre tout
+
+
+**** Comment être crédible ? ****
+- Montrer votre travail
+	+ Mathilda Perrot: designer qui montre les choses qu'elle a créées
+- Les études de cas
+	+ Décortiquer un projet étape par étape pour montrer comment vous procéder
+	+ Aide le client à visualiser ce que c'est de travailler avec vous
+	+ Exple : Logo de Empire Flippers, photographe de mariage qui montre les différentes étapes de mariage (Greg Finck)
+- Mécanisation
+	+ Expliquer le mécanisme par lequel vous allez obtenir le résultat
+- Témoignage
+	+ c'est un gage de l'expérience client
+	+ Structure d'un témoignage efficae en 3 parties
+		* Présentation
+		* Problème rencontré
+		* ce qui a changé
+	+ Comment obtenir ces témoignages ?
+		* le client n'y pensera jamais, il faut être proactif
+			Ex: Venir avec la camera et faites une interview
+		* rediger le témoignage pour eux et faites le valider

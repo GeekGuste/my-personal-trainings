@@ -3,7 +3,7 @@
 - se mettre dans une position qui fait qu'en moyenne on a des opportunités qui viendront
 et des revenues qu'on connait en moyenne
 - la sécurité se construira autour de 4 compétences fondamentales :
-	1.1.  Savoir fair
+	1.1. Savoir faire
 	1.2. Communication client
 	1.3. Réseau
 	1.4. Aptitude à vendre
@@ -51,7 +51,7 @@ et des revenues qu'on connait en moyenne
 et se retrouver sans boulot dès que le projet se termine
 + Ne perdez jamais votre "muscle d'acquisition de clients"
 + Exple de Dan Kennedy (1h par jour)
-+ Inertie : il est eaucoup plus difficile de repartir à zero que d'acceler une machine en mouvement
++ Inertie : il est beaucoup plus difficile de repartir à zero que d'accelerer une machine en mouvement
 
 ***** Les 4 compétences fondamentales d'un freelance
 
@@ -60,7 +60,7 @@ et se retrouver sans boulot dès que le projet se termine
 - plus on est pointu, plus on aura des projets intéressants
 - A vous de vous former régulièrement et d'apprendre sur le terrain
 
-2. Une communication cent irréprochable
+2. Une communication client irréprochable
 - le client ne connait pas forcément notre coeur de métier
 - c'est à nous de communiquer de manière à ce que le client comprenne
 - vous ne pouvez jamais sur-communiquer
